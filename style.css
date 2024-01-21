@@ -1,0 +1,12 @@
+#myBtn {
+  padding: 10px 15px;
+  color: rgb(239, 91, 91);
+  background-color: #64e9ad;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  transition: all .3s;
+}
+#myBtn:hover {
+  background-color: #15f18e;
+}
